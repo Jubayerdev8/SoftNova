@@ -1,0 +1,190 @@
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .conatiner {
+        width: 750px;
+    }
+
+    .logo a {
+        font-size: 20px;
+    }
+
+    .hero-content h1 {
+        font-size: 40px;
+        margin: 20px;
+    }
+
+    .hero-image img {
+        width: 390px;
+        margin-right: 10px;
+    }
+
+    .hero-content p {
+        font-size: 15px;
+        margin: 20px;
+        line-height: 28px;
+    }
+
+    .hero-btns {
+        margin: 50px;
+    }
+
+    .service-elements {
+        flex-direction: column;
+        margin: 20px;
+    }
+
+    .experience-badge img {
+        width: 325px;
+        margin: 20px;
+    }
+
+    .about-content h2 {
+        font-size: 35px;
+    }
+
+    .about-content p {
+        font-size: 16px;
+        line-height: 31px;
+    }
+
+    .offer-box {
+        margin: 20px;
+    }
+
+    .main-img-box img {
+        width: 320px;
+    }
+
+    .about-right-content {
+        margin-top: -130px;
+    }
+
+    .intro-p {
+        font-size: 16px;
+    }
+
+    .skill-feature-list {
+        width: 300px;
+    }
+
+    .btn-primary {
+        padding: 15px 15px;
+        margin-left: -32px;
+    }
+
+    .about-footer-info {
+        width: 396px;
+    }
+
+    .benefits-grid {
+        gap: 3px;
+    }
+
+    .footer-col.about-col {
+        margin-left: 12px;
+    }
+
+    .footer-col.newsletter-col {
+        margin-left: -22px;
+    }
+
+
+
+}
+
+
+@media only screen and (max-width:767px) {
+
+    .container {
+        width: 350px;
+    }
+
+    .hero-elements {
+        flex-direction: column;
+    }
+
+    .hero-image img {
+        width: 445px;
+        margin-top: 20px;
+    }
+
+    .service-elements {
+        flex-direction: column;
+    }
+
+    .about-elements {
+        flex-direction: column;
+    }
+
+    .experience-badge img {
+        width: 445px;
+    }
+
+    .offer-box {
+        flex-direction: column;
+    }
+
+    .analysis-steps {
+        flex-direction: column;
+    }
+
+    .about-flex-wrapper {
+        flex-direction: column;
+        margin-left: 20px;
+    }
+
+    .btn-primary {
+        white-space: nowrap;
+    }
+
+    .info-box p {
+        white-space: nowrap;
+    }
+
+    .benefits-grid {
+        flex-direction: column;
+    }
+
+    .contact-wrapper {
+        flex-direction: column;
+    }
+
+    .footer-grid {
+        flex-direction: column;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 15px 9px;
+    }
+
+    .main-img-box img {
+        width: 367px;
+    }
+
+    .intro-p {
+        font-size: 13px;
+        max-width: 353px;
+    }
+
+    .skill-feature-list {
+        width: 360px;
+    }
+
+    .btn-primary {
+        padding: 15px 7px;
+
+    }
+
+    .process-wrapper {
+        flex-direction: column;
+    }
+
+    .slicknav_menu {
+        display: block;
+    }
+
+    .navbar{
+        display: none;
+    }
+
+}
